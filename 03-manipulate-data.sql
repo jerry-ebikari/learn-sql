@@ -4,4 +4,6 @@ INSERT INTO events (
     description,
     max_participants,
     min_age
-)
+) VALUES (
+    'Event number one'
+);
