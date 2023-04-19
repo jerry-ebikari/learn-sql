@@ -1,5 +1,5 @@
 CREATE TABLE events (
-    id INT NOT NULL,
+    id INT NOT NULL UNIQUE,
     name VARCHAR(300) NOT NULL CHECK (LENGTH(name) > 5),
     date_planned TIMESTAMP NOT NULL,
     image VARCHAR(300),
