@@ -1,6 +1,6 @@
 CREATE TABLE events (
     id INT,
-    name,
+    name VARCHAR(300),
     date_planned,
     image,
     description,
