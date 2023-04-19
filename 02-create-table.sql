@@ -1,5 +1,5 @@
 CREATE TABLE events (
-    id,
+    id INT,
     name,
     date_planned,
     image,
