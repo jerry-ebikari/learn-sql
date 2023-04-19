@@ -5,5 +5,5 @@ CREATE TABLE events (
     image VARCHAR(300),
     description TEXT,
     max_participants INT,
-    min_age
+    min_age INT
 );
