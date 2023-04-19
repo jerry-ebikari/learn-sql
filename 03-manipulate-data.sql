@@ -8,5 +8,6 @@ INSERT INTO events (
     'Event number one',
     '2022-10-29 16:30:00',
     'This is the first of a series of awesome events',
-    20
+    20,
+    18
 );
