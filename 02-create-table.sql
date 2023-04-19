@@ -1,5 +1,5 @@
 CREATE TABLE events (
-    id INT,
+    id INT NOT NULL,
     name VARCHAR(300) NOT NULL,
     date_planned TIMESTAMP,
     image VARCHAR(300),
