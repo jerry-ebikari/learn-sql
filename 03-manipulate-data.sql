@@ -5,5 +5,6 @@ INSERT INTO events (
     max_participants,
     min_age
 ) VALUES (
-    'Event number one'
+    'Event number one',
+    '2022-10-29 16:30:00'
 );
