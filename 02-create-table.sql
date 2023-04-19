@@ -3,7 +3,7 @@ CREATE TABLE events (
     name VARCHAR(300),
     date_planned TIMESTAMP,
     image VARCHAR(300),
-    description,
+    description TEXT,
     max_participants,
     min_age
 );
